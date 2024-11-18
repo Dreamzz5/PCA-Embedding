@@ -54,6 +54,7 @@ pip install -r requirements.txt
 ```bash
 mkdir -p data
 unzip data.zip -d data/
+```
 
 
 ## Citation
