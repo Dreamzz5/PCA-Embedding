@@ -40,7 +40,6 @@ scikit-learn
 ```bash
 git clone https://github.com/Dreamzz5/PCA-Embedding.git
 cd PCA-Embedding
-pip install -r requirements.txt
 ```
 
 ## Usage
@@ -65,14 +64,10 @@ If you find this work useful in your research, please cite our paper:
 @article{wang2024unveiling,
   title={Unveiling the Inflexibility of Adaptive Embedding in Traffic Forecasting},
   author={Wang, Hongjun and Chen, Jiyuan and Zhang, Lingyu and Jiang, Renhe and and Song, Xuan},
-  journal={arXiv preprint arXiv:submit/6006891},
+  journal={https://arxiv.org/pdf/2411.11448.pdf},
   year={2024}
 }
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
