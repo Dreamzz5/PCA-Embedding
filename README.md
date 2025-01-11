@@ -56,6 +56,8 @@ unzip data.zip -d data/
 ```
 
 
+
+<!-- 
 ## Citation
 
 If you find this work useful in your research, please cite our paper:
@@ -67,7 +69,8 @@ If you find this work useful in your research, please cite our paper:
   journal={https://arxiv.org/pdf/2411.11448.pdf},
   year={2024}
 }
-```
+``` -->
+
 
 ## Acknowledgements
 
